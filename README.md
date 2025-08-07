@@ -1,7 +1,15 @@
-# **Store Data Analysis**
----
 
- ## Interactive Excel dashboard showcasing Pivot Tables, Pivot Charts, slicers, and data analysis to uncover sales insights.
+# Store Data Analysis
+---
+## 📈 Interactive Excel Dashboard for Sales Insights
+An interactive Excel dashboard showcasing:
+
+- ### Pivot Tables
+
+- ### Pivot Charts
+
+ - ### Slicers
+
  ## Demonstrates strong Excel skills in 
  - ### organizing,
  - ### visualizing, and
